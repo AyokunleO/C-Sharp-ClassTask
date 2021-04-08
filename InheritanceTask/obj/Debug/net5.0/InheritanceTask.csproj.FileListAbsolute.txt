@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTasks\C# ClassTask08042021\InheritanceTask\bin\Debug\net5.0\InheritanceTask.exe
+C:\CodebitsAcademy\LabTasks\C# ClassTask08042021\InheritanceTask\bin\Debug\net5.0\InheritanceTask.deps.json
+C:\CodebitsAcademy\LabTasks\C# ClassTask08042021\InheritanceTask\bin\Debug\net5.0\InheritanceTask.runtimeconfig.json
+C:\CodebitsAcademy\LabTasks\C# ClassTask08042021\InheritanceTask\bin\Debug\net5.0\InheritanceTask.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTasks\C# ClassTask08042021\InheritanceTask\bin\Debug\net5.0\InheritanceTask.dll
+C:\CodebitsAcademy\LabTasks\C# ClassTask08042021\InheritanceTask\bin\Debug\net5.0\ref\InheritanceTask.dll
+C:\CodebitsAcademy\LabTasks\C# ClassTask08042021\InheritanceTask\bin\Debug\net5.0\InheritanceTask.pdb
+C:\CodebitsAcademy\LabTasks\C# ClassTask08042021\InheritanceTask\obj\Debug\net5.0\InheritanceTask.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTasks\C# ClassTask08042021\InheritanceTask\obj\Debug\net5.0\InheritanceTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTasks\C# ClassTask08042021\InheritanceTask\obj\Debug\net5.0\InheritanceTask.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTasks\C# ClassTask08042021\InheritanceTask\obj\Debug\net5.0\InheritanceTask.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTasks\C# ClassTask08042021\InheritanceTask\obj\Debug\net5.0\InheritanceTask.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTasks\C# ClassTask08042021\InheritanceTask\obj\Debug\net5.0\InheritanceTask.dll
+C:\CodebitsAcademy\LabTasks\C# ClassTask08042021\InheritanceTask\obj\Debug\net5.0\ref\InheritanceTask.dll
+C:\CodebitsAcademy\LabTasks\C# ClassTask08042021\InheritanceTask\obj\Debug\net5.0\InheritanceTask.pdb
+C:\CodebitsAcademy\LabTasks\C# ClassTask08042021\InheritanceTask\obj\Debug\net5.0\InheritanceTask.genruntimeconfig.cache
