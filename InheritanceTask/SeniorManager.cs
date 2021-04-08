@@ -3,7 +3,8 @@ namespace InheritanceTask
     public class SeniorManager:Manager
     {
         private int perfEval;
-        public SeniorManager(string name, decimal baseSalary, decimal bonus, int perfEval): base(name, baseSalary, bonus)
+        public decimal Bonus = 500M;
+        public SeniorManager(string name, decimal baseSalary, int perfEval): base(name, baseSalary)
         {
             PerfEval = perfEval;
         }
@@ -19,7 +20,7 @@ namespace InheritanceTask
 
         public override decimal Salary()
         {
-            if(PerfEval > 6){
+            if(PerfEval >= 6){
                 return BaseSalary + Bonus;
             }else{
                 return BaseSalary;

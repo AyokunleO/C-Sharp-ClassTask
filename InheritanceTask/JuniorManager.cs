@@ -3,8 +3,9 @@ namespace InheritanceTask
     public class JuniorManager:Manager
     {
         private int hoursWorked;
+        public decimal Bonus = 300M;
 
-        public JuniorManager(string name, decimal baseSalary, decimal bonus, int hoursWorked): base(name, baseSalary, bonus)
+        public JuniorManager(string name, decimal baseSalary, int hoursWorked): base(name, baseSalary)
         {
             HoursWorked = hoursWorked;
         }
