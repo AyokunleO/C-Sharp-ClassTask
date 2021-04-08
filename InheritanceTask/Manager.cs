@@ -34,9 +34,9 @@ namespace InheritanceTask
             return BaseSalary + Bonus;
         }
 
-        public override string ToString()
-        {
-            return $"{base.ToString()}:\nBase Salary:{BaseSalary}\nBonus:{Bonus}";
-        }
+        // public override string ToString()
+        // {
+        //     return $"{base.ToString()}:\nBase Salary:{BaseSalary}\nBonus:{Bonus}";
+        // }
     }
 }

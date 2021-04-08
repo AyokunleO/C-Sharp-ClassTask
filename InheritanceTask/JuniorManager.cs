@@ -29,7 +29,7 @@ namespace InheritanceTask
 
         public override string ToString()
         {
-            return $"{base.ToString()}:\nHours Worked:{HoursWorked}\n\nBase Salary:{BaseSalary:C}\nBonus:{Bonus:C}";
+            return $"{base.ToString()}:\nHours Worked:{HoursWorked}\nBase Salary:{BaseSalary:C}\nBonus:{Bonus:C}";
         }
     }
 }

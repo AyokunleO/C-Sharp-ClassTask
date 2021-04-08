@@ -28,7 +28,7 @@ namespace InheritanceTask
 
         public override string ToString()
         {
-            return $"{base.ToString()}:\nPerformance Evaluation:{PerfEval}\n\nBase Salary:{BaseSalary:C}\nBonus:{Bonus:C}";
+            return $"{base.ToString()}:\nPerformance Evaluation:{PerfEval}\nBase Salary:{BaseSalary:C}\nBonus:{Bonus:C}";
         }        
     }
 }
